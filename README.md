@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xrander
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R programming and python
+- 🌱 I’m currently learning R programming, HTML, CSS and python
 - 💞️ I’m looking to collaborate on projects involving data analysis with the use of R and Python. Geospatial analysis is also welcomed
 - 📫 How to reach me www.linkedin.com/in/olamide-adu-55999115a
 
