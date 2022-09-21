@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PostgreSQL and anything SQL**
 
-- 📫 How to reach me **https://www.linkedin.com/in/olamide-adu-55999115a/**
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/olamide-adu-55999115a/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
