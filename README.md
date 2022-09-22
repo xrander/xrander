@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Pandas and Numpy**
 
-- 💬 Ask me about **PostgreSQL and anything SQL**
+- 💬 Ask me about **PostgreSQL, anything ANSI-SQL, Python and R**
 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/olamide-adu-55999115a/)
 
