@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://kaggle.com/aduolamide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aduolamide" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/adu.olamide.12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adu.olamide.12/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/olamideadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/olamideadu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/olamideadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/olamideadu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
