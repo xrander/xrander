@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olamide Adu</h1>
 <h3 align="center">A budding Data Scientist from Nigeria</h3>
+![image](https://github.com/xrander/xrander/blob/main/images/Screenshot%20from%202022-03-03%2019-34-01.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xrander&label=Profile%20views&color=0e75b6&style=flat" alt="xrander" /> </p>
 
