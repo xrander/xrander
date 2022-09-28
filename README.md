@@ -6,8 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xrander&label=Profile%20views&color=0e75b6&style=flat" alt="xrander" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xrander" alt="xrander" /></a> </p>
-
-- ICU Exploratory data analysis using MIMIC-III data [Exploratory Data Analysis of ICU Retrospective Data](https://github.com/xrander/SQL-Project)
+<h2>Projects</h2>
+- <a href = "https://github.com/xrander/SQL-Project">ICU Exploratory data analysis using MIMIC-III data
+</a> 
+<br>
+- <a href = "https://github.com/xrander/SLU-Plantation-Experimentation"> Sverige Lantbruksuniversitet SLU Forest Experimental Data Exploration </a>
+<h2> Other Information</h2>
 
 - 🌱 I’m currently learning **Pandas and Numpy**
 
