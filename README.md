@@ -18,6 +18,7 @@
 - 💬 Ask me about **PostgreSQL, anything ANSI-SQL, Python and R**
 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/olamide-adu-55999115a/)
+- You can see more details at [cv](https://www.xrander.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
