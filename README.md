@@ -10,7 +10,7 @@
 - <a href = "https://github.com/xrander/SQL-Project">ICU Exploratory data analysis using MIMIC-III data
 </a> 
 <br>
-- <a href = "https://github.com/xrander/SLU-Plantation-Experimentation"> Sverige Lantbruksuniversitet (SLU) Forest Experimental Data Exploration </a>
+- <a href = "https://xrander.github.io/Slu_experiment/"> Sverige Lantbruksuniversitet (SLU) Forest Experimental Data Exploration </a>
 <h2> Other Information</h2>
 
 - 🌱 I’m currently learning **Pandas and Numpy**
