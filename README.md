@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olamide Adu</h1>
+
+A Research Data Analyst 
 <img src='https://github.com/xrander/xrander/blob/main/images/Screenshot%20from%202022-03-03%2019-34-01.png'/>
 <h3 align="center">Anything data</h3>
 
