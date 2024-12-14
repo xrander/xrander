@@ -19,11 +19,8 @@ I hold an MSc in Forest Science and love combining tech and environmental scienc
 
 ## 🎯 Skills Snapshot
 
-  -  Programming: R, Python, SQL
-  -  Visualization: Tableau, Power BI, ggplot2, R Shiny
-  -  ML/Statistical Analysis: A/B Testing, ARIMA, Predictive Modeling
-  -  Geospatial Tools: QGIS, ArcGIS
-  -  Workflow Automation: REST APIs, JSON, Shell Scripting
+  -  **Programming**: R, Python, SQL
+  -  **Geospatial Tools**: QGIS, ArcGIS
 
 ## 🌟 Let’s Connect!
 
