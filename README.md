@@ -13,6 +13,7 @@ Welcome to my GitHub! I’m a Data Scientist who loves turning messy data into m
 
   -  [Emission Tracker](https://olamide-adu.shinyapps.io/emission_tracker/): A web app for live tracking greenhouse gas emissions with ARIMA-powered forecasts.
   -  [Spread App](https://xrand.shinyapps.io/SpreadApp/): A trading app for spread analysis to understand past market trend
+  -  [A Basketball Scoreboard](https://github.com/xrander/basketball-scoreboard): A basketball scoreboard built with HTML, CSS, and JS. The game follows standard US Men 12 mins per quarter rule. The app includes buttons to play/pause the game, add points (1, 2, and 3), start a new game, commence or start thhe countdown
   
 ## 👨‍💻 A Bit About Me
 
