@@ -12,6 +12,7 @@ Welcome to my GitHub! I’m a Data Scientist who loves turning messy data into m
 ## 🛠️ Some of My Favorite Projects (More interesting ones coming)
 
   -  [Emission Tracker](https://olamide-adu.shinyapps.io/emission_tracker/): A web app for live tracking greenhouse gas emissions with ARIMA-powered forecasts.
+  -  [Spread App](https://xrand.shinyapps.io/SpreadApp/): A trading app for spread analysis to understand past market trend
   
 ## 👨‍💻 A Bit About Me
 
