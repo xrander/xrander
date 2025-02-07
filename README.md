@@ -11,8 +11,8 @@ Welcome to my GitHub! I’m a Data Scientist who loves turning messy data into m
 
 ## 🛠️ Some of My Favorite Projects (More interesting ones coming)
 
-  -  [Emission Tracker](https://olamide-adu.shinyapps.io/emission_tracker/): A web app for live tracking greenhouse gas emissions with ARIMA-powered forecasts.
-  -  [Spread App](https://xrand.shinyapps.io/SpreadApp/): A trading app for spread analysis to understand past market trend
+  -  [Emission Tracker](https://olamide-adu.shinyapps.io/emission_tracker/): A web app built using the R Shiny for live tracking greenhouse gas emissions with ARIMA-powered forecasts.
+  -  [Spread App](https://xrand.shinyapps.io/SpreadApp/): A trading app built using R Shiny. The app is used for spread analysis to understand past market trend. It also incorporates statistical models to estimate risk premiums or other key spread-related metrics as well as compare modeled results to actual market data (by integrating spot market data) for better decision-making.
   -  [A Basketball Scoreboard](https://github.com/xrander/basketball-scoreboard): A basketball scoreboard built with HTML, CSS, and JS. The game follows standard US Men 12 mins per quarter rule. The app includes buttons to play/pause the game, add points (1, 2, and 3), start a new game, commence or start thhe countdown
   
 ## 👨‍💻 A Bit About Me
