@@ -22,7 +22,7 @@ I hold an MSc in Forest Science and love combining tech and environmental scienc
 ## 🎯 Skills Snapshot
 
   -  **Core Programming Languages**: R, Python, SQL, JavaScript
-  -  **General-purpose programming languages**: HTML, CSS, Markdown, YAML
+  -  **Markup languages**: HTML, CSS, Markdown, YAML
   -  **Geospatial Tools**: QGIS, ArcGIS
 
 ## 🌟 Let’s Connect!
